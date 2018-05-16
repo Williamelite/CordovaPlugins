@@ -1,0 +1,18 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-logger": {
+    "source": {
+      "type": "local",
+      "path": "D:\\CordovaProjects\\hello\\node_modules\\cordova-plugin-logger"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
